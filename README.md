@@ -13,3 +13,4 @@
 - Implement a consistent branching strategy (e.g., Git Flow).
 - Review and merge pull requests thoughtfully to avoid conflicts.
 - Track issues and changes regularly for better collaboration.
+
